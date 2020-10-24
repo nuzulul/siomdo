@@ -35,4 +35,6 @@ siomdocli/
 siomdo/
 version/
 siomdodata/
+espeak/
+history/
 *.zip

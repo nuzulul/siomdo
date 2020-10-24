@@ -20,7 +20,7 @@
       <AutoIncrementBuild Value="True"/>
       <MajorVersionNr Value="1"/>
       <RevisionNr Value="1"/>
-      <BuildNr Value="11"/>
+      <BuildNr Value="12"/>
       <Language Value="0421"/>
       <StringTable CompanyName="Nuzulul Zulkarnain Haq" FileDescription="Siomdo - Text to Speech Bahasa Indonesia" LegalCopyright="2020" OriginalFilename="Siomdo.exe" ProductName="Siomdo" ProductVersion="Narojil Soft"/>
     </VersionInfo>

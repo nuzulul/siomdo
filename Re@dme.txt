@@ -9,7 +9,7 @@
                                /\_______/
                                \/______/
 
-Siomdo v1.0.1.9
+Siomdo v1.0.1.11
 Si Omong Doang TTS - Free Text to Speech Bahasa Indonesia
 Copyleft © 2020 Narojil Soft by Nuzulul Zulkarnain Haq 
 https://nuzulul.github.io/siomdo/
