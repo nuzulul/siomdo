@@ -1,0 +1,16 @@
+  _______                                ___
+ /  ____ \                              /\_ \
+/\ /___/\ \    ____  _____  ____  __  __\//\ \
+\ \ \  \ \ \  / __ \/\  __\/ __ \/\ \/\ \ \ \ \
+ \ \ \  \ \ \/\ \_\ \ \ \//\ \_\ \ \ \ \ \ \_\ \_
+  \ \_\  \ \_\ \_____\ \_\\ \____/\ \ \ \_\/\____\
+   \/_/   \/_/\/_____/\/_/ \/___/  \ \ \/_/\/____/
+                                ____\/  \
+                               /\_______/
+                               \/______/
+
+Siomdo v1.0.1.9
+Si Omong Doang TTS - Free Text to Speech Bahasa Indonesia
+Copyleft © 2020 Narojil Soft by Nuzulul Zulkarnain Haq 
+https://nuzulul.github.io/siomdo/
+Made in Indonesia
