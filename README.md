@@ -1,6 +1,6 @@
 # Siomdo
 
-Si Omong Doang TTS - Free Text to Speech Bahasa Indonesia
+Si Omong Doang TTS - Program Text to Speech Bahasa Indonesia
 
 https://nuzulul.github.io/siomdo/
 
