@@ -37,8 +37,8 @@ object Form2: TForm2
     Left = 16
     Height = 15
     Top = 64
-    Width = 292
-    Caption = 'Copyleft © 2020 Narojil Soft by Nuzulul Zulkarnain Haq'
+    Width = 278
+    Caption = 'Copyleft 2020 Narojil Soft by Nuzulul Zulkarnain Haq'
     ParentColor = False
   end
   object Label5: TLabel

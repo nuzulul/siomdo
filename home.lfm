@@ -4071,16 +4071,16 @@ object Form1: TForm1
     Height = 25
     Top = 128
     Width = 56
-    Caption = 'About'
+    Caption = 'Tentang'
     OnClick = btAboutClick
     TabOrder = 4
   end
   object Label1: TLabel
-    Left = 200
+    Left = 184
     Height = 15
     Top = 72
-    Width = 196
-    Caption = 'Free Text to Speech Bahasa Indonesia'
+    Width = 224
+    Caption = 'Program Text-to-Speech Bahasa Indonesia'
     ParentColor = False
   end
   object bttest: TButton
@@ -4089,7 +4089,7 @@ object Form1: TForm1
     Height = 25
     Top = 160
     Width = 56
-    Caption = 'Test'
+    Caption = 'Tes'
     OnClick = bttestClick
     TabOrder = 5
   end
@@ -4099,7 +4099,7 @@ object Form1: TForm1
     Height = 25
     Top = 192
     Width = 56
-    Caption = 'Clear'
+    Caption = 'Hapus'
     OnClick = btclearClick
     TabOrder = 6
   end
