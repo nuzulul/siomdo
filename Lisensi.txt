@@ -1,0 +1,21 @@
+Siomdo
+Siomdo is an Indonesian Text to Speech program
+Copyleft 2020 Narojil Soft by Nuzulul Zulkarnain Haq 
+https://nuzulul.github.io/siomdo/
+Made in Indonesia
+
+DESKRIPSI
+
+Siomdo adalah program text to speech (TTS) bahasa Indonesia. Program Siomdo dapat membaca teks bahasa Indonesia dan mengucapkannya lewat speaker komputer. Selain itu juga dapat mengkonversi teks ke dalam bentuk file WAV.
+
+LISENSI
+
+Program Siomdo di release sebagai freeware anda bebas mendistribusikannya , copy, menyebarkan, menyertakan dalam download di web site,CD atau media lainnya asalkan memenuhi kiteria berikut ini : 
+
+1. Tidak merubah keaslian software ini, baik dengan cara cracking, reserve engineering, dan cara-cara lainnya.
+2. Tidak menambah atau mengurangi keterangan dalam distribusi.
+3. Bukan untuk tujuan komersial.
+
+DISCLAIMER 
+
+Kerusakan sistem komputer akibat penggunaan software ini bukan menjadi tanggung jawab kami. Pastikan selalu download di situs https://nuzulul.github.io/siomdo/ untuk mendapatkan keaslian software.

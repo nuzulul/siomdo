@@ -4,7 +4,7 @@ object Form2: TForm2
   Top = 296
   Width = 329
   BorderStyle = bsDialog
-  Caption = 'About'
+  Caption = 'Tentang Siomdo'
   ClientHeight = 172
   ClientWidth = 329
   OnCreate = FormCreate
@@ -42,9 +42,9 @@ object Form2: TForm2
     ParentColor = False
   end
   object Label5: TLabel
-    Left = 16
+    Left = 212
     Height = 15
-    Top = 112
+    Top = 144
     Width = 100
     Caption = 'Made  in Indonesia'
     ParentColor = False
@@ -86,16 +86,34 @@ object Form2: TForm2
     TabOrder = 2
   end
   object Shape1: TShape
-    Left = 243
+    Left = 229
     Height = 25
-    Top = 104
+    Top = 88
     Width = 65
     Brush.Color = clRed
   end
   object Shape2: TShape
-    Left = 243
+    Left = 229
     Height = 25
-    Top = 128
+    Top = 112
     Width = 65
+  end
+  object Label4: TLabel
+    Cursor = crHandPoint
+    Left = 16
+    Height = 15
+    Top = 112
+    Width = 35
+    Caption = 'Lisensi'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlue
+    Font.Height = -12
+    Font.Name = 'Segoe UI'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsUnderline]
+    ParentColor = False
+    ParentFont = False
+    OnClick = Label4Click
   end
 end

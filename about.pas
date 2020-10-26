@@ -16,6 +16,7 @@ type
     Label1: TLabel;
     Label2: TLabel;
     Label3: TLabel;
+    Label4: TLabel;
     Label5: TLabel;
     Shape1: TShape;
     Shape2: TShape;
@@ -23,6 +24,7 @@ type
     stVersion: TStaticText;
     procedure Button1Click(Sender: TObject);
     procedure FormCreate(Sender: TObject);
+    procedure Label4Click(Sender: TObject);
     procedure StaticText1Click(Sender: TObject);
   private
 
@@ -64,6 +66,14 @@ begin
   finally
     FileVerInfo.Free;
   end;
+end;
+
+procedure TForm2.Label4Click(Sender: TObject);
+var
+path:string;
+begin
+  path:=ExtractFileDir(paramstr(0));
+  if ShellExecute(0,nil,PChar(path+'\Lisensi.txt'),nil,nil,1) =0 then;
 end;
 
 end.

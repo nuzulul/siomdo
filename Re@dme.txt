@@ -9,8 +9,8 @@
                                /\_______/
                                \/______/
 
-Siomdo v1.0.1.11
-Si Omong Doang TTS - Free Text to Speech Bahasa Indonesia
+Siomdo
+Si Omong Doang TTS - Siomdo is an Indonesian Text to Speech program
 Copyleft 2020 Narojil Soft by Nuzulul Zulkarnain Haq 
 https://nuzulul.github.io/siomdo/
 Made in Indonesia
